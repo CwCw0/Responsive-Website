@@ -7,4 +7,5 @@ HTML, CSS and some JS in this project, it's the first time ever touching these m
 
 This repo consists of my index.html, several pages of css; seperated (Style, General, Media Queries). 
 
-I'm learning github and trying to connect myself to the wonderful world of programming. 
+I'm learning github and trying to connect myself to the wonderful world of programming, 
+As this is my first project, would love for tips and help from anyone!
