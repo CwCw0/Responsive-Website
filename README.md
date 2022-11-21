@@ -1,4 +1,5 @@
 # Responsive-Website
+
 My first project, 
 My fully responsive website, I worked on this while learning the basics of the mark up languages and JS. I kickstarted my coding journey from this project.
 
@@ -9,3 +10,8 @@ This repo consists of my index.html, several pages of css; seperated (Style, Gen
 
 I'm learning github and trying to connect myself to the wonderful world of programming, 
 As this is my first project, would love for tips and help from anyone!
+
+Update* 
+21 Nov 
+Fully completed the responsive website, included animations and a working form! 
+Deployed on Netlify!
